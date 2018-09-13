@@ -2,7 +2,7 @@
 This is the repo to go with the Youtube video series. Teaching basics of programming.
 
 ## Lessons
-* Intro
+* [ ] Intro
     * [ ] Haxe enviroment setup and Hello World test
     * [ ] What is programming
     * [ ] Why use Haxe and overview of other languages 
