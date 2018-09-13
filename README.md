@@ -3,6 +3,9 @@ This is the repo to go with the Youtube video series. Teaching basics of program
 
 This course uses the Haxe Programming language as it's primary example. However all examples are relevant to any language. It's the concepts that are most important to learn. 
 
+
+After finishing the course the student will have a fundamental understanding of programming and coding stragity that they can take into any field, including, app development, web, game programming and more!
+
 ## Lessons
 * [ ] Intro
     * [ ] Haxe enviroment setup and Hello World test
