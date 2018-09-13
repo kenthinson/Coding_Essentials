@@ -2,11 +2,12 @@
 This is the repo to go with the Youtube video series. Teaching basics of programming.
 
 ## Lessons
-* [ ] Haxe enviroment setup and Hello World test
-* [ ] What is programming
-* [ ] Why use Haxe and overview of other languages 
-* [ ] Compiled vs interpreted languages
-* [ ] Basic input and output
+* Intro
+    * [ ] Haxe enviroment setup and Hello World test
+    * [ ] What is programming
+    * [ ] Why use Haxe and overview of other languages 
+    * [ ] Compiled vs interpreted languages
+    * [ ] Basic input and output
 * [ ] Varibles and Data Types
     * [ ] Intro to varibles
     * [ ] Working with numbers
