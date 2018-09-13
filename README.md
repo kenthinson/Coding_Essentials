@@ -6,6 +6,7 @@ This course uses the Haxe Programming language as it's primary example. However 
 
 After finishing the course the student will have a fundamental understanding of programming and coding strategy that they can take into any field, including, app development, web, game programming and more!
 
+This is a work in progress. Please subscribe to the associated Youtube channel to get notified of updates. 
 ## Lessons
 * [ ] Intro
     * [ ] Haxe enviroment setup and Hello World test
