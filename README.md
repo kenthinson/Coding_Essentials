@@ -1,5 +1,7 @@
 # Coding Fundamentals
-This is the repo to go with the Youtube video series. Teaching basics of programming.
+This is the repo to go with the Youtube video series. Teaching basics of programming. This course is design to take people who have never programmed before and teach them the basics. However it is also a good reference for people who need a refresher on a topic.
+
+This course uses the Haxe Programming language as it's primary example. However all examples are relevant to any language. It's the concepts that are most important to learn. 
 
 ## Lessons
 * [ ] Intro
@@ -57,4 +59,13 @@ This is the repo to go with the Youtube video series. Teaching basics of program
     * [ ] tbd...
 * [ ] OOP Design patterns
     * [ ] tbd
-
+* [ ] Design Patterns
+    * [ ] Observer
+    * [ ] Decorator
+    * [ ] Singleton
+    * [ ] Collection
+    * [ ] Factories
+* [ ] Databases
+    * [ ] ...tbd
+* [ ] Source Control
+    * [ ] ... tbd
