@@ -8,7 +8,8 @@ After finishing the course the student will have a fundamental understanding of 
 
 This is a work in progress. Please [SUBSCRIBE](https://www.youtube.com/channel/UCqWgyiyaIpMO2yKyUNbk6NQ?sub_confirmation=1) to the associated Youtube channel to get notified of updates. 
 ## Lessons
-* [ ] Intro
+* [ ] Introduction
+    * [ ] Coding Essentials series. Learning objectives.
     * [ ] Haxe enviroment setup and Hello World test
     * [ ] What is programming
     * [ ] Why use Haxe and overview of other languages 
