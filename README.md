@@ -1,12 +1,12 @@
 # Coding Essentials
-This is the repo to go with the Youtube video series. Teaching basics of programming. This course is design to take people who have never programmed before and teach them the basics. However it is also a good reference for people who need a refresher on a topic.
+This is the repository to go with the YouTube video series. Teaching basics of programming. This course is design to take people who have never programmed before and teach them the basics. However it is also a good reference for people who need a refresher on a topic.
 
 This course uses the Haxe Programming language as it's primary example. However all examples are relevant to any language. It's the concepts that are most important to learn. 
 
 
 After finishing the course the student will have a fundamental understanding of programming and coding strategy that they can take into any field, including, app development, web, game programming and more!
 
-This is a work in progress. Please [SUBSCRIBE](https://www.youtube.com/channel/UCqWgyiyaIpMO2yKyUNbk6NQ?sub_confirmation=1) to the associated Youtube channel to get notified of updates. 
+This is a work in progress. Please [SUBSCRIBE](https://www.youtube.com/channel/UCqWgyiyaIpMO2yKyUNbk6NQ?sub_confirmation=1) to the associated YouTube channel to get notified of updates. 
 ## Lessons
 * [ ] Introduction.
     * [ ] Coding Essentials series. Learning objectives.
