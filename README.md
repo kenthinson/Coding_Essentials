@@ -10,23 +10,23 @@ This is a work in progress. Please [SUBSCRIBE](https://www.youtube.com/channel/U
 ## Lessons
 * [ ] Introduction.
     * [ ] Coding Essentials series. Learning objectives.
-    * [ ] Haxe enviroment setup and Hello World test.
+    * [ ] Haxe environment setup and Hello World test.
     * [ ] What is programming.
     * [ ] Why use Haxe and overview of other languages.
     * [ ] Compiled vs interpreted languages.
     * [ ] Basic input and output.
-* [ ] Varibles and Data Types.
-    * [ ] Intro to varibles.
+* [ ] Variables and Data Types.
+    * [ ] Intro to variables.
     * [ ] Working with numbers.
-    * [ ] Charaters and String basics.
+    * [ ] Characters and String basics.
     * [ ] Operators.
     * [ ] White space.
     * [ ] Code comments.
-* [ ] Conditinoal Code.
-    * [ ] If statment.
+* [ ] Conditional Code.
+    * [ ] If statement.
     * [ ] If else.
-    * [ ] Comparasion vs Assignment.
-    * [ ] Switch statment.
+    * [ ] Comparison vs Assignment.
+    * [ ] Switch statement.
 * [ ] Modular Code.
     * [ ] Functions syntax.
     * [ ] calling functions.
