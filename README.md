@@ -9,7 +9,8 @@ After finishing the course the student will have a fundamental understanding of 
 This is a work in progress. Please [SUBSCRIBE](https://www.youtube.com/channel/UCqWgyiyaIpMO2yKyUNbk6NQ?sub_confirmation=1) to the associated YouTube channel to get notified of updates. 
 ## Lessons
 * [ ] Introduction.
-    * [ ] Coding Essentials series. Learning objectives.
+    * [ ] Learning objectives.
+    * [ ] Source code and why you should use a IDE.
     * [ ] Haxe environment setup and Hello World test.
     * [ ] What is programming.
     * [ ] Why use Haxe and overview of other languages.
