@@ -11,27 +11,27 @@ This is a work in progress. Please [SUBSCRIBE](https://www.youtube.com/channel/U
 * [ ] Introduction.
     * [ ] Learning objectives.
     * [ ] Source code and why you should use a IDE.
-    * [ ] Haxe environment setup and Hello World test.
-    * [ ] What is programming.
+    * [x] Haxe environment setup and Hello World test.
+    * [x] What is programming.
     * [ ] Why use Haxe and overview of other languages.
     * [ ] Compiled vs interpreted languages.
-    * [ ] Basic input and output.
+    * [x] Basic input and output.
 * [ ] Variables and Data Types.
-    * [ ] Intro to variables.
-    * [ ] Working with numbers.
-    * [ ] Characters and String basics.
-    * [ ] Operators.
+    * [x] Intro to variables.
+    * [x] Working with numbers.
+    * [x] Characters and String basics.
+    * [x] Operators.
     * [ ] White space.
     * [ ] Code comments.
 * [ ] Conditional Code.
     * [ ] If statement.
     * [ ] If else.
-    * [ ] Comparison vs Assignment.
+    * [x] Comparison vs Assignment.
     * [ ] Switch statement.
 * [ ] Modular Code.
-    * [ ] Functions syntax.
-    * [ ] calling functions.
-    * [ ] arguments.
+    * [x] Functions syntax.
+    * [x] calling functions.
+    * [x] arguments.
     * [ ] scope.
     * [ ] multiple files.
 * [ ] Iteration.
